@@ -1,2 +1,4 @@
 My first file.
-Testing and leraning git basics.
+Testing and learning git basics.
+
+I am using git through terminal.
